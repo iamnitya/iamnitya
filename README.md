@@ -3,7 +3,6 @@
 💡  I’m interested in exploring the field of AI and ML
 🌱  I’m currently learning anything and everything that I can :)
 ✉️  You can shoot me an email at nityaanuga@gmail.com! I'll try to respond as soon as I can.
-💞️ I’m looking to collaborate on ...
 📫 Connect with me on [linkedin](www.linkedin.com/in/nitya-anuga-3b71b7223)
 
 <!---
