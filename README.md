@@ -5,7 +5,7 @@
 ✉️  You can shoot me an email at nityaanuga@gmail.com! I'll try to respond as soon as I can.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nitya-anuga-3b71b7223)
 
-## 🐍 Watch a snake eating my contributions
+## 🐍 Watch a snake eat my contributions
 ![snake.gif](https://github.com/iamnitya/iamnitya/blob/7fc8820e18c5c3610bb8b0d4886966d0baf03a32/github-contribution-grid-snake.svg)
 <!---
 iamnitya/iamnitya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
