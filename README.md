@@ -7,9 +7,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnitya&theme=dark)](https://git.io/streak-stats)
 
+
+<!---
 ## 🐍 Watch a snake eat my contributions
 ![snake.svg](https://github.com/iamnitya/iamnitya/blob/7fc8820e18c5c3610bb8b0d4886966d0baf03a32/github-contribution-grid-snake.svg)
-<!---
 iamnitya/iamnitya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=iamnitya)
