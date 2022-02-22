@@ -5,7 +5,7 @@
 ✉️  You can shoot me an email at nityaanuga@gmail.com! I'll try to respond as soon as I can.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nitya-anuga-3b71b7223)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnitya&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamnitya&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!---
