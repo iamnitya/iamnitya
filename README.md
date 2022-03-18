@@ -6,9 +6,6 @@
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nitya-anuga-3b71b7223)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamnitya&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
 <!---
 ## 🐍 Watch a snake eat my contributions
 ![Visitor Count](https://profile-counter.glitch.me/{iamnitya}/count.svg)
