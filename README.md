@@ -9,6 +9,7 @@
 
 <!---
 ## 🐍 Watch a snake eat my contributions
+![](https://komarev.com/ghpvc/?username=iamnitya)
  ✉️  You can shoot me an email at nityaanuga@gmail.com! I'll try to respond as soon as I can. ## 
 ![Visitor Count](https://profile-counter.glitch.me/{iamnitya}/count.svg)
 ![Visitor Count](https://profile-counter.glitch.me/{iamnitya}/count.svg)
