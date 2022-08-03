@@ -2,10 +2,12 @@
 🎓  I’m majoring in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh.  
 💡  I’m interested in exploring the field of AI and ML  
 🌱  I’m currently learning anything and everything that I can :)  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nitya-anuga-3b71b7223)
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/nityaanuga)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamnitya&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
+## 🐍 Watch a snake eat my contributions
+![snake.svg](https://github.com/iamnitya/iamnitya/blob/7fc8820e18c5c3610bb8b0d4886966d0baf03a32/github-contribution-grid-snake.svg)
 
 <!---
 ## 🐍 Watch a snake eat my contributions
@@ -18,4 +20,6 @@
 iamnitya/iamnitya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=iamnitya)
+[Leetcode](https://leetcode.com/iamnitya/)
+
 --->
