@@ -1,6 +1,4 @@
-👋 Hi, I’m Nitya Anuga...
-
-
+👋 Hi, I’m Nitya Anuga...    
 🎓  I’m majoring in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh.  
 💡  I’m interested in exploring the field of AI and ML  
 🌱  I’m currently learning anything and everything that I can :)  
