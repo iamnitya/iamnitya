@@ -1,8 +1,8 @@
 👋 Hi, I’m Nitya Anuga...    
 🎓  I’m majoring in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh.  
-💡  I’m interested in exploring the field of AI and ML  
-🌱  I’m currently learning anything and everything that I can :)  
 📫 Connect with me on [LinkedIn](www.linkedin.com/in/nityaanuga)
+<!-- 💡  I’m interested in exploring the field of AI and ML  
+🌱  I’m currently learning anything and everything that I can :)   -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamnitya&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
