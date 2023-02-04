@@ -1,6 +1,7 @@
 👋 Hi, I’m Nitya Anuga...    
 🎓  I’m majoring in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nityaanuga/)
+
 <!-- 💡  I’m interested in exploring the field of AI and ML  
 🌱  I’m currently learning anything and everything that I can :)   -->
 
@@ -19,7 +20,7 @@
 iamnitya/iamnitya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=iamnitya)
-[Leetcode]
+[Leetcode]-------------------------------------------------------------------------------------
 (https://leetcode.com/iamnitya/)
 bdh
 --->
