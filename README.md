@@ -7,10 +7,14 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamnitya&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
-## 🐍 Watch a snake eat my contributions
-![snake gif](https://github.com/iamnitya/iamnitya/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 ## 🐍 Watch a snake eat my contributions
+
+## 🐍 Watch a snake eat my contributions
+![snake gif](https://github.com/iamnitya/iamnitya/blob/output/github-contribution-grid-snake.svg)
+
+
 ![](https://komarev.com/ghpvc/?username=iamnitya)
  ✉️  You can shoot me an email at nityaanuga@gmail.com! I'll try to respond as soon as I can. ## 
 ![Visitor Count](https://profile-counter.glitch.me/{iamnitya}/count.svg)
