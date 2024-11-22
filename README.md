@@ -1,5 +1,5 @@
 👋 Hi, I’m Nitya Anuga...    
-🎓  I’m majoring in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh.  
+🎓  I’m majoring in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh.   
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nityaanuga/)
 
 <!-- 💡  I’m interested in exploring the field of AI and ML  
